@@ -1,0 +1,2 @@
+# Binance Futures Testnet Trading Bot
+requests>=2.31.0
